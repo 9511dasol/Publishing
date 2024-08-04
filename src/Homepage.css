@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.publishing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background: url(red-stag-in-morning-fog-e1.jpg) no-repeat ;
+    background-size: cover;
+    background-position: center center;
+}
+

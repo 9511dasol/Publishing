@@ -1,0 +1,41 @@
+ul{
+    list-style: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    min-width: 100%;
+    margin: 3px 0;
+}
+
+.navbar__logo{
+    display: flex;
+    flex-direction: row;
+    span{
+        margin-left: 3px;
+        cursor: pointer;
+    }
+}
+
+
+.navbar__link ul{
+    display: flex;
+}
+
+.navbar__link ul li {
+    padding: 0 7px;
+}
+
+.navbar__return i {
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.navbar__return ul{
+    display: flex;
+}
+
+.navbar__return ul li a{
+    color: black;
+}
