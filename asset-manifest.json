@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Publishing/static/css/main.d49eef1a.css",
+    "main.js": "/Publishing/static/js/main.4dc96e8b.js",
+    "static/media/red-stag-in-morning-fog-e1.jpg": "/Publishing/static/media/red-stag-in-morning-fog-e1.807d08a6dc8e6ffe7290.jpg",
+    "static/media/boxicons.svg": "/Publishing/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/Publishing/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/Publishing/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/Publishing/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/Publishing/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/Publishing/index.html",
+    "main.d49eef1a.css.map": "/Publishing/static/css/main.d49eef1a.css.map",
+    "main.4dc96e8b.js.map": "/Publishing/static/js/main.4dc96e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49eef1a.css",
+    "static/js/main.4dc96e8b.js"
+  ]
+}
