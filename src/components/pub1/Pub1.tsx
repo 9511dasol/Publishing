@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import "boxicons/css/boxicons.min.css";
 import "./style.css";
 export default function Pub1() {
-  const [id, setId] = useState("");
-  const [pw, setPw] = useState("");
-  const [state, setState] = useState("Login");
+  const [id, setId] = useState<string>("");
+  const [pw, setPw] = useState<string>("");
+  const [state, setState] = useState<string>("Login");
   const login = () => {
     alert("아직 공사중입니다.");
   };
